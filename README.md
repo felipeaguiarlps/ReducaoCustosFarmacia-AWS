@@ -11,7 +11,7 @@ Responsáveil: Felipe Aguiar Lopes
 
 
 
-##Introdução
+## Introdução
 
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo, realizado por Felipe Aguiar Lopes.
 
@@ -20,7 +20,7 @@ O objetivo do projeto foi de elencar 3 serviços AWS, com finalidade de realizar
 Além do princípio da troca de CAPEX por OPEX, o que já traria um beneficio econômico grande.
 
 
-##Descrição do Projeto
+## Descrição do Projeto
 
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
@@ -76,8 +76,7 @@ Etapa 1:
  - Escalabilidade automática sem investimentos extras.
 
 
-
-##Conclusão
+## Conclusão
 
 A implementação de ferramentas cloud computing da AWS **na** empresa Abstergo tem como esperado, economia direta com servidores sob demanda e serviços gerenciados, redução de custos de manutenção e infraestrutura física, maior eficiência operacional permitindo que a equipe foque no core business (distribuição e vendas).
 
